@@ -47,19 +47,6 @@ npm run dev
 The app will be running at:
 👉 http://localhost:5173/
 
-##📂 Project Structure
-src/
- ┣ components/
- ┃ ┣ Dashboard/
- ┃ ┣ Orders/
- ┃ ┣ Common/
- ┃ ┗ Layout/
- ┣ services/
- ┃ ┗ api.js
- ┣ utils/
- ┃ ┗ helpers.js
- ┗ App.jsx
-
 <h2>🚀 Deployment</h2>
 
 You can easily deploy on:
