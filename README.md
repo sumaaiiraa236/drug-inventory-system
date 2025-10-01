@@ -47,7 +47,7 @@ npm run dev
 The app will be running at:
 👉 http://localhost:5173/
 
-<h2>##📂 Project Structure</h2>
+##📂 Project Structure
 src/
  ┣ components/
  ┃ ┣ Dashboard/
