@@ -1,0 +1,33 @@
+TOPICS TO WORK ON:
+CS CORE SUBJECTS:
+UPI Fraud Detection Using Machine Learning
+
+Develop a real-time system to detect fraudulent UPI transactions using ML algorithms.
+
+Tools: Python, Scikit-learn, Pandas.
+
+Why: Practical application in fintech with high relevance to secure transaction processing.
+
+
+2.DeepFake Face Detection Using Machine Learning
+
+Build a model to detect manipulated facial images and videos, ensuring digital media authenticity.
+Tools: Python, Computer Vision, ML frameworks.
+Why: Important in cybersecurity and media trustworthiness
+
+
+ AI RELATED:
+AI-Powered Resume Screener
+
+An AI tool that screens resumes and provides immediate feedback on formatting, content quality, and keyword optimization.
+
+Technologies: NLP, Python, TensorFlow.
+Benefits: Useful in HR tech for automating candidate shortlisting.
+
+
+2.  Project: Customer Sentiment Analysis for Calls
+Call centers and customer service teams handle thousands of calls daily.
+It’s hard to manually evaluate customer satisfaction.
+Supervisors only listen to a few calls → biased picture.
+Businesses miss early warning signs (angry/frustrated customers).
+👉 AI can analyze call recordings in real-time to detect sentiment (positive/negative/neutral) and even emotions (anger, happiness, frustration, sadness).
