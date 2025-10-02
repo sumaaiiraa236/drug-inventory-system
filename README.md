@@ -12,6 +12,8 @@ An intelligent, modern web application for managing and tracking drug inventory,
 ✅ Low Stock Alerts – Automatic notifications for critical drug levels.
 ✅ Responsive Design – Works seamlessly on desktop & mobile.
 ✅ Modular Architecture – Clean separation of components for scalability.
+✅AI-Powered Demand Forecasting-Use past inventory + patient data to predict shortages before they happen.
+
 
 <h2>🖼️ Screenshots</h2>
 Dashboard Overview
